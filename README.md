@@ -17,7 +17,7 @@ Also, you need to be familiar with [Jason](http://jason.sourceforge.net/wp/) age
 ### Installing JaCaMo Eclipse Plugin
 - [Install Eclipse IDE](https://www.eclipse.org/downloads/)
 - Install JaCaMo plugin following the instruction in this [link](http://jacamo.sourceforge.net/eclipseplugin/tutorial/)
-- Import this project
+- Import the [EBCF project](https://github.com/AlisonPanisson/EBCF/tree/master/EBCF_Jason)
 
 #### **Main Publications:**
 
