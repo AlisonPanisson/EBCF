@@ -6,7 +6,7 @@ In this project, we implement an Enthymeme-Based Communication Framework for BDI
 
 We have evaluated our approach with different scenarios.
 * Scenario based on the **Argumentation Scheme for Data Access Control** [1] -> [Here](https://github.com/AlisonPanisson/EBCF/blob/master/Scenario_DAC.md)
-* Scenario based on the **Arguemntation Scheme Role to Know** [2,3,4,5] -> [Here](https://github.com/AlisonPanisson/EBC)
+* Scenario based on the **Arguemntation Scheme Role to Know** [2,3,4,5] -> [Here](https://github.com/AlisonPanisson/EBCF/blob/master/Scenario_RK.md)
 
 #### **Main Publications:**
 
