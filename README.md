@@ -8,6 +8,17 @@ We have evaluated our approach with different scenarios.
 * Scenario based on the **Argumentation Scheme for Data Access Control** [1] -> [Here](https://github.com/AlisonPanisson/EBCF/blob/master/Scenario_DAC.md)
 * Scenario based on the **Argumentation Scheme from Role to Know** [2,3,4,5] -> [Here](https://github.com/AlisonPanisson/EBCF/blob/master/Scenario_RK.md)
 
+
+## Running the Framework
+
+This tutorial is based on JaCaMo Eclipse Plugin. More information about JaCaMo is available [here](http://jacamo.sourceforge.net/).
+Also, you need to be familiar with [Jason](http://jason.sourceforge.net/wp/) agent-oriented programming language.
+
+### Installing JaCaMo Eclipse Plugin
+- [Install Eclipse IDE](https://www.eclipse.org/downloads/)
+- Install JaCaMo plugin following the instruction in this [link](http://jacamo.sourceforge.net/eclipseplugin/tutorial/)
+- Import this project
+
 #### **Main Publications:**
 
 [1] Panisson, Alison R., Ali, Asad, Bordini, Rafael H. 
