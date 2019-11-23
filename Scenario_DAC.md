@@ -45,8 +45,8 @@ The corresponding dialogue using Enthymemesfor this dialogue, based on the imple
 _________________________
 ![Scenario of Data Access Control](img/cod_enthy0102_v3.png)
 _________________________
-Note that, for this first experiment, agents reduce the length of messages, when communicating enthymeme, in an average of 48% 
-(45% the first argument, and 51% the second argument). Note that two premises of these arguments are organisational knowledge.
+
+Note that, for this experiment, agents reduce the message size, when communicating enthymemes, in an average of 47% (46% the first argument, and 48% the second argument).
 
 
 #### **Main Publications:**
