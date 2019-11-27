@@ -6,7 +6,15 @@ describing the use of argumentation scheme from role to know.
 
 ### Scenario - Role to Know
 
-This dialogue is showed in the following output from Jason Platform:
+Considering the argumentation scheme **role to know** introduced in [2,3,4,5], imagine a scenario in which all agents know that `john` (an agent in the system) is playing the role of `doctor`--- `role(john,doctor)` --- within the organisational structure. Further, the agents know that doctors know about cancer --- `knows(doctor,cancer)`. Therefore, if `john` asserts that "*smoking causes cancer*" --- `asserts(john,causes(smoking,cancer))`, and causes of cancer are a subject matter related to cancer --- `about(causes(smoking,cancer),cancer)`, all agents are able to instantiate the argumentation scheme **role to know**, which allows them to conclude that smoking causes cancer: `causes(smoking,cancer)`.
+
+Now, imagine that another agent also playing the role of doctor, called `pietro`, asserts that "*smoking does not cause cancer*", i.e., `asserts(pietro, ~causes(smoking,cancer))`. Any agent aware of both assertion, John's and Pietro's assertions, is able to construct conflicting arguments for `~causes(smoking,cancer)` and `causes(smoking,cancer)`, instantiating the argumentation scheme **role to know**, both arguments attacking (in conflict with) each other. 
+
+However, the agents are able to question if `john` and `pietro` are honest (trustworthy, reliable) sources, if they really play the role of `doctor`, and the other questionable points indicated by critical questions in the argumentation scheme used. Thus, when the critical questions related to that scheme are not positively answered, that instance of argument might be not acceptable.
+
+For example, if an agent has the information that "*Pietro is not a reliable source*", i.e., `~reliable(pietro)`, that agent is not able to answer positively the critical question `reliable(pietro)`, thus that instance of the argumentation scheme (i.e., that argument) might be not acceptable for that agent, i.e., the argument concluding  `~causes(smoking,cancer)` might be not an acceptable instance from the argumentation scheme **role to know**, while the argument concluding `causes(smoking,cancer)` might be an acceptable instance from **role to know**, supposing that agent knows that  `john` is reliable.
+
+This dialogue is showed in the following output from Jason Platform, considering two agents ag1 and ag2:
 _________________________
 ![Scenario Roel to Know](img/cod2_enthy0202_v1.png)
 _________________________
