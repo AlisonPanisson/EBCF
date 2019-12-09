@@ -41,7 +41,7 @@ This dialogue is showed in the following output from Jason Platform:
 _________________________
 ![Scenario of Data Access Control](img/scenario_01_v2.png)
 _________________________
-The corresponding dialogue using Enthymemesfor this dialogue, based on the implementation described in the paper, is showed below:
+The corresponding dialogue using Enthymemes for this dialogue, based on the implementation described in the paper, is showed below:
 _________________________
 ![Scenario of Data Access Control](img/cod_enthy0102_v3.png)
 _________________________
