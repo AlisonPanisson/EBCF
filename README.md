@@ -1,4 +1,4 @@
-# Enthymeme-Based Communication Framework in BDI Agents
+# Enthymeme-Based Communication Framework for BDI Agents
 
 In this project, we implement an Enthymeme-Based Communication Framework for BDI Agents using JaCaMo Platform. 
 
