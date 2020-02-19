@@ -21,7 +21,7 @@ Also, you need to be familiar with [Jason](http://jason.sourceforge.net/wp/) age
 
 #### **Main Publications:**
 
-[1] Panisson, Alison R., Ali, Asad, Bordini, Rafael H. 
+[1] Panisson, Alison R., Ali, Asad, McBurney, Peter, Bordini, Rafael H. 
 **Argumentation Schemes for Data Access Control.** 
 In *International Conference on Computational Models of Argument (COMMA)*, pgs 361 - 368, 2018.
 
