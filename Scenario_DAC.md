@@ -26,7 +26,7 @@ in order to know the patient record.
 
 Considering the access control rules of **H1**, specified in the previous rules, the agent responsible for answering 
 the request categorises the requesting agent to the access-category `external-hospital_receptionist`. 
-Thus, it is not able to construct an acceptable argument for `access(anna,record(bob,R))`, denying access to that information. 
+Thus, it is not able to construct an acceptable argument for `access(joe,record(bob,R))`, denying access to that information. 
 
 As the requesting agent has not been correctly categorised, he sends a message informing that he is a doctor.
 The agent responsible for dealing with the request categorises *Joe* to the access-category `external-hospital_doctor`, 
