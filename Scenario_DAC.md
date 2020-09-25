@@ -43,7 +43,7 @@ _________________________
 _________________________
 The corresponding dialogue using Enthymemes for this dialogue, based on the implementation described in the paper, is showed below:
 _________________________
-![Scenario of Data Access Control](img/cod_enthy0102_v3.png)
+![Scenario of Data Access Control](img/cod_enthy0102_v4.png)
 _________________________
 
 Note that, for this experiment, agents reduce the message size, when communicating enthymemes, in an average of 46% (46% for both arguments).
