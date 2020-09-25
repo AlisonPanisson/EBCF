@@ -46,7 +46,7 @@ _________________________
 ![Scenario of Data Access Control](img/cod_enthy0102_v4.png)
 _________________________
 
-Note that, for this experiment, agents reduce the message size, when communicating enthymemes, in an average of 46% (46% for both arguments).
+Note that, for this experiment, agents reduce the message size, when communicating enthymemes, in an average of 45,5% (45% for the first argument, and 46% for the second argument).
 
 
 #### **Main Publications:**
