@@ -19,10 +19,10 @@ in order to know the patient record.
 
 |Access Control Rules|
 | ------------ |
-|`acess-category(all)` =><sup>access</sup>  `information-category(public)` |
-|`acess-category(internal-family_doctor)` =><sup>access</sup>  `information-category(private-end_user-patient_data)`|
-|`acess-category(internal-doctor) ^ emrg(unc)` =><sup>access</sup>  `information-category(private-end_user-patient_data)`|
-|`acess-category(external-hospital\_doctor) ^ emrg(unc)` =><sup>access</sup>  `information-category(private-end_user-patient_data)`|
+|`access-category(all)` =><sup>access</sup>  `information-category(public)` |
+|`access-category(internal-family_doctor)` =><sup>access</sup>  `information-category(private-end_user-patient_data)`|
+|`access-category(internal-doctor) ^ emrg(unc)` =><sup>access</sup>  `information-category(private-end_user-patient_data)`|
+|`access-category(external-hospital\_doctor) ^ emrg(unc)` =><sup>access</sup>  `information-category(private-end_user-patient_data)`|
 
 Considering the access control rules of **H1**, specified in the previous rules, the agent responsible for answering 
 the request categorises the requesting agent to the access-category `external-hospital_receptionist`. 
