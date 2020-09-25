@@ -20,7 +20,7 @@ mas tests03{
 	  				constr(role(nurse),nurse)
 	  				inf_category(record,patient_data)
 	  				access_rule(family_doctor,patient_data)
-	  				role(joe,nurse)[source(org)]
+	  				role(joe,nurse)
 	  				
 	  				emrg_rule(unc,access_rule(doctor,patient_data))
 	  				//unc
